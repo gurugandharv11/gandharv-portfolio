@@ -31,6 +31,7 @@ export function FixedNav() {
   }
 
   const navLinks = [
+    { label: "Showcase", id: "showcase" },
     { label: "About", id: "bio" },
     { label: "Experience", id: "experience" },
     { label: "Projects", id: "work" },
